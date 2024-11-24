@@ -24,3 +24,9 @@ Setup che viene effettuato una sola volta con l'indirizzo email dello sviluppato
 
 ### git push 
 Operazione di invio delle modifiche della repository locale
+
+### git clone <indirizzo_repository>
+Clono in locale una repository remota
+
+### git pull 
+Aggiorno la repository locale con le modifiche presenti su quella remota
